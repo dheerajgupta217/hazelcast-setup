@@ -1,7 +1,7 @@
 # hazelcast-setup
 
-# CRUD operations and Hazelcast setup.
+CRUD operations and Hazelcast setup.
 
-# Hazelcast Client and Server architecture setup.
+Hazelcast Client and Server architecture setup.
 
-# Controller and time saver for Your API response time
+Controller and time saver for Your API response time
